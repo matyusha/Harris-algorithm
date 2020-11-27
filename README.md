@@ -1,6 +1,6 @@
 # Harris-algorithm
-Source image
+Source image\n
 ![alt tag](https://github.com/matyusha/Harris-algorithm/blob/main/input.png "Source image")​
 
-Result
+Result\n
 ![alt tag](https://github.com/matyusha/Harris-algorithm/blob/main/output.png "Result image")​
